@@ -44,9 +44,6 @@ It includes sections such as a menu, maps, about, and contact, along with call-t
 
 This project was built under the guidance of Mr Vivek Sir. Future enhancements will be made to improve functionality and design.
 
-# License
-
-This project is for learning and practice purposes only.
 
 # Screenshort
 
